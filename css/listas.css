@@ -11,8 +11,6 @@
        color: antiquewhite;
        text-transform: upperc capitalize;}
 
-
-
 .caja { display:block;
       width: 90%; 
       min-height: 1px ;
@@ -29,9 +27,6 @@
              line-height: 1.5;
             font-size: 1.3em;
              }
-
-
-
 
 .imagen { margin: auto; 
         display: block }
